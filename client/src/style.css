@@ -1,0 +1,23 @@
+
+.container {
+  margin: 20px;
+}
+.main {
+  margin: 10px;
+}
+
+.details {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.text-link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.text-link:hover {
+  color: blue;
+  text-decoration: 'underline';
+}
